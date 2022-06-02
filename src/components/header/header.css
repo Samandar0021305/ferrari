@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.videoTag{
+    max-width: 100%;
+    min-height: calc(100vh - 44px);
+    display: flex;
+}
